@@ -1,8 +1,8 @@
  
 
-<h1 align="center">ꪶ✨𝗠𝗮𝗻𝘂𝗹 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗕𝗼𝘁 𝗩4❤️ꫂ<br></h1>
+<h1 align="center">ꪶ✨𝗠𝗮𝗻𝘂𝗹 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗕𝗼𝘁 𝗩5❤️ꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/3aa94fc9ee3c546ca75ff.jpg" />
+<img src="https://telegra.ph/file/1381545219ab4bc892afe.jpg" />
 </p>
 
    <p align="center">
@@ -18,11 +18,11 @@ ____________________________________
 # ```✨Bot Info❤️```
 <p align="center">
 <a href="https://github.com/manulofficial7/followers"><img title="Followers" src="https://img.shields.io/github/followers/manulofficial7?color=red&style=flat-square"></a>
-<a href="https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/manulofficial7/Manul_Official_WhatsApp_Bot_V4?color=blue&style=flat-square"></a>
-<a href="https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manulofficial7/Manul_Official_WhatsApp_Bot_V4?color=red&style=flat-square"></a>
-<a href="https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/manulofficial7/Manul_Official_WhatsApp_Bot_V4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4"><img title="Open Source" src="https://img.shields.io/badge/Author-Manu%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4/"><img title="Size" src="https://img.shields.io/github/repo-size/manulofficial7/Manul_Official_WhatsApp_Bot_V4?style=flat-square&color=green"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/manulofficial7/Manul_Official_WhatsApp_Bot_V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V5/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manulofficial7/Manul_Official_WhatsApp_Bot_V4?color=red&style=flat-square"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/manulofficial7/Manul_Official_WhatsApp_Bot_V4?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V5"><img title="Open Source" src="https://img.shields.io/badge/Author-Manu%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/manulofficial7/Manu-MD-V5/"><img title="Size" src="https://img.shields.io/github/repo-size/manulofficial7/Manul_Official_WhatsApp_Bot_V4?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmanulofficial7%2FManul_Official_WhatsApp_Bot_V4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Manul_Official_WhatsApp_Bot_V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -56,7 +56,7 @@ ____________________________________
 
 ## ✨Deploy to Heroku❤️ 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V5)
 
 ____________________________________
 
@@ -86,7 +86,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4
+git clone https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V5
 yarn install
 npm start
 ```
@@ -102,8 +102,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4
-cd Manul_Official_WhatsApp_Bot_V4
+git clone https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V5
+cd Manul_Official_WhatsApp_Bot_V5
 npm start
 ```
 
@@ -137,15 +137,16 @@ ____________________________________
    ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
-| Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 4.0        |
-| AI Photo Enhancement             | Enhance photos using advanced AI algorithms            | ✅           | 4.0        |
-| Downloader Commands              | Download various types of content from the internet     | ✅           | 4.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 4.0        |
-| Logo Commands                    | Generate logos using specialized commands               | ✅           | 4.0        |
-| Anime Commands                   | Explore anime-related commands and features              | ✅           | 4.0        |
-| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 4.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 4.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 4.0        |
+| Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 5.0        |
+| AI Photo Enhancement             | Enhance photos using advanced AI algorithms            | ✅           | 5.0        |
+| Downloader Commands              | Download various types of content from the internet     | ✅           | 5.0        |
+| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 5.0        |
+| Logo Commands                    | Generate logos using specialized commands               | ✅           | 5.0        |
+| Anime Commands                   | Explore anime-related commands and features              | ✅           | 5.0        |
+| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 5.0        |
+| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 5.0        |
+| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 5.0        |
+ Button Added      | Button Menu And commands            | ✅           | 5.0        |
 
 
 ____________________________________
